@@ -53,8 +53,9 @@ return 0;
 }
 ```
 # OUTPUT:
+![WhatsApp Image 2025-09-25 at 09 05 48_7d01c90d](https://github.com/user-attachments/assets/1b4151b2-7898-414a-a8ed-bf0395da1422)
 
-<img width="1696" height="769" alt="image" src="https://github.com/user-attachments/assets/bd6c20a1-e576-4eb2-a0b4-8c34bdf882e2" />
+
 
 # RESULT:
 Thus code for Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption is executed successfully.
